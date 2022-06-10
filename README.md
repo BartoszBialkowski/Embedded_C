@@ -1,3 +1,3 @@
 # Embedded_C
 
-Project includes modules that are responsible for control of diodes led, buttons, servo nad UART transmission
+Project includes modules that are responsible for control of microcontroler in C language, such us: leds, buttons, servo nad UART transmission
